@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "723445273b677303",
+    "type": "split",
+    "children": [
+      {
+        "id": "081e840641105884",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2e4ca8812a91449",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 1 Supporting Operating Systems/Topic A Identify Common Operating Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56b3645202a35b8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "57a052c0cac51bbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a0a2952f4851b20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1aeaf73db31fee16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66df53f66217641a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 598.5
+  },
+  "right": {
+    "id": "95598effee3baa2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7912608d46d44b7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15dc98827385ee95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lesson 1 Supporting Operating Systems/Topic A Identify Common Operating Systems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba144c27590eb68a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lesson 1 Supporting Operating Systems/Topic A Identify Common Operating Systems.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "471ea5411bbd5b04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2d1a2915766fca8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lesson 1 Supporting Operating Systems/Topic A Identify Common Operating Systems.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2a0a2952f4851b20",
+  "lastOpenFiles": [
+    "assets",
+    "Welcome.md",
+    "Table of Contents.md",
+    "Index.md",
+    "Lesson 1 Supporting Operating Systems/Topic C Use Windows Features and Tools.md",
+    "create a link.md",
+    "Lesson 18 Implementing Operational Procedures/Topic A Environmental Impacts and Controls.md",
+    "Lesson 18 Implementing Operational Procedures/Topic F Professionalism and Communication.md",
+    "Lesson 18 Implementing Operational Procedures/Topic E Basic Scripting Concepts.md",
+    "Lesson 18 Implementing Operational Procedures/Topic D Implement Disaster Prevention and Recovery Methods.md",
+    "Lesson 18 Implementing Operational Procedures/Topic C Use Basic Change Management Best Practices.md",
+    "Lesson 18 Implementing Operational Procedures/Topic B Create and Maintain Documentation.md",
+    "Lesson 17 Installing, Configuring, and Troubleshooting Print Devices/Topic F Install and Configure Imaging Devices.md",
+    "Lesson 17 Installing, Configuring, and Troubleshooting Print Devices/Topic E Troubleshoot Print Device Issues.md",
+    "Lesson 17 Installing, Configuring, and Troubleshooting Print Devices/Topic D Install and Configure Printers.md",
+    "Lesson 17 Installing, Configuring, and Troubleshooting Print Devices/Topic C Maintain Impact, Thermal, and 3D Printers.md",
+    "Lesson 17 Installing, Configuring, and Troubleshooting Print Devices/Topic B Maintain Inkjet Printers.md",
+    "Lesson 17 Installing, Configuring, and Troubleshooting Print Devices/Topic A Maintain Laser Printers.md",
+    "Lesson 16 Supporting and Troubleshooting Mobile Devices/Topic C Configure Mobile Device Network Connectivity.md",
+    "Lesson 16 Supporting and Troubleshooting Mobile Devices/Topic A Mobile Device Types.md",
+    "Lesson 16 Supporting and Troubleshooting Mobile Devices/Topic F Troubleshoot Mobile Device Issues.md",
+    "Lesson 16 Supporting and Troubleshooting Mobile Devices/Topic E Secure Mobile Devices.md",
+    "Lesson 16 Supporting and Troubleshooting Mobile Devices/Topic D Support Mobile Apps.md",
+    "Lesson 16 Supporting and Troubleshooting Mobile Devices/Topic B Connect and Configure Mobile Device Accessories.md",
+    "Lesson 15 Supporting and Troubleshooting Laptops/Topic C Troubleshoot Common Laptop Issues.md",
+    "Lesson 15 Supporting and Troubleshooting Laptops/Topic B Install and Configure Laptop Hardware.md",
+    "Solutions",
+    "Lesson 18 Implementing Operational Procedures",
+    "Lesson 17 Installing, Configuring, and Troubleshooting Print Devices",
+    "Appendix",
+    "Lesson 16 Supporting and Troubleshooting Mobile Devices",
+    "Lesson 15 Supporting and Troubleshooting Laptops",
+    "Lesson 14 Troubleshooting Workstation Security Issues",
+    "Lesson 13 Securing Workstations and Data",
+    "Lesson 12 Security Concepts",
+    "Lesson 11 Implementing Client Virtualization and Cloud Computing"
+  ]
+}
